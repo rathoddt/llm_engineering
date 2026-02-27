@@ -1,0 +1,53 @@
+# Core
+python-dotenv
+requests
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+pyarrow
+psutil
+setuptools
+
+# Jupyter
+jupyterlab
+ipywidgets
+jupyter-dash
+
+# ML / NLP / LLMs
+torch
+transformers
+sentence-transformers
+datasets==3.6.0
+gensim
+chromadb
+hf-xet==1.1.9
+
+# LLM Providers
+openai
+anthropic
+google-generativeai
+ollama
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+langchain-community
+
+# Visualization & UI
+plotly
+gradio
+
+# Utilities
+beautifulsoup4
+feedparser
+speedtest-cli
+protobuf==3.20.2
+wandb
+modal
+twilio
+pydub
