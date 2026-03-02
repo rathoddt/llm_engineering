@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "C:\\all-gits\\my-gits\\llm_engineering\\llenv2\\Scripts\\python.exe",
+  "python.terminal.activateEnvironment": true,
+
+  "jupyter.jupyterServerType": "local",
+  "jupyter.kernelPickerType": "stable",
+  "jupyter.askForKernelRestart": false,
+  "jupyter.interactiveWindowMode": "perFile",
+  "jupyter.disableZMQChannels": false
+}
