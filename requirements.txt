@@ -38,6 +38,18 @@ langchain-openai
 langchain-chroma
 langchain-community
 
+# Gemini
+google-genai
+langchain_google_genai
+
+# groq
+langchain_groq 
+
+# huggingface 
+langchain_huggingface 
+
+litellm
+
 # Visualization & UI
 plotly
 gradio
