@@ -1,7 +1,9 @@
 # Core
 python-dotenv
 requests
-numpy
+# numpy
+numpy==1.23.5
+cython==0.29.36
 pandas
 scipy
 matplotlib
